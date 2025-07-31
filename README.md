@@ -1,12 +1,12 @@
-# 📊 Bank Loan Analysis Dashboard (Excel Project)
+## 📊 Bank Loan Analysis Dashboard (Excel Project)
 
-## 📝 Project Overview
+###  Project Overview
 
 This project showcases an interactive **Bank Loan Analysis Dashboard** built entirely in **Microsoft Excel**, aimed at visualizing and analyzing key performance indicators (KPIs) related to loan applications, funding, repayment, and borrower behavior. The dashboard helps financial analysts and decision-makers assess loan portfolio health, identify risk trends, and improve lending strategies.
 
 ---
 
-##  Problem Statement
+###  Problem Statement
 
 Banks need a centralized, visual reporting solution to monitor the performance of their lending operations. This Excel dashboard project was created to:
 
@@ -17,9 +17,9 @@ Banks need a centralized, visual reporting solution to monitor the performance o
 
 ---
 
-##  Key Features
+###  Key Features
 
-###  Dashboard 1: Summary
+####  Dashboard 1: Summary
 - **KPIs Tracked**:
   - Total Loan Applications (MTD, MoM)
   - Total Funded Amount & Amount Received
@@ -29,7 +29,7 @@ Banks need a centralized, visual reporting solution to monitor the performance o
   - Bad Loans: Charged Off
   - Dynamic donut charts, application counts, and financial metrics
 
-###  Dashboard 2: Overview
+####  Dashboard 2: Overview
 - **Time Series Trends** (Line Chart): Monthly Applications, Funding, and Repayment
 - **Geographical Analysis** (Filled Map): Loan activity by U.S. states
 - **Loan Term Split** (Donut Chart): 36 vs. 60 months
@@ -40,7 +40,7 @@ Banks need a centralized, visual reporting solution to monitor the performance o
 
 ---
 
-## Tools & Techniques
+### Tools & Techniques
 
 - Microsoft Excel
   - Pivot Tables
@@ -51,7 +51,7 @@ Banks need a centralized, visual reporting solution to monitor the performance o
 
 ---
 
-##  Summary of Insights
+###  Summary of Insights
 
 -  **Good Loans account for 86.18%** of total applications
 -  **13.82% are Charged Off loans**, indicating risk exposure
@@ -61,7 +61,7 @@ Banks need a centralized, visual reporting solution to monitor the performance o
 
 ---
 
-## Repository Contents
+### Repository Contents
 
 'financial_loan.csv' - Dataset
 `Bank Loan Dashboard.xlsx` - Main interactive dashboard 
