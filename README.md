@@ -51,7 +51,7 @@ Banks need a centralized, visual reporting solution to monitor the performance o
 
 ---
 
-###  Summary of Insights
+###  🔍 Summary of Insights
 
 -  **Good Loans account for 86.18%** of total applications
 -  **13.82% are Charged Off loans**, indicating risk exposure
